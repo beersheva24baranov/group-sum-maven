@@ -1,7 +1,6 @@
 package numbers;
 
 import java.util.Arrays;
-import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 public class ThreadsGroupSum extends GroupSum {
